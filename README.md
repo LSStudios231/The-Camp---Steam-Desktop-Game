@@ -36,3 +36,5 @@ Enemy AI units roam the map and react to player presence. Getting caught results
 This was my first commercial PC game released on Steam, and helped me understand both production and distribution pipelines for desktop games.
 
 Steam Page: *(https://store.steampowered.com/app/2517410/The_Camp/)*
+
+Game screenshots can be found in the images folder.
